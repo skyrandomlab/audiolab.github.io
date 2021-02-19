@@ -1,6 +1,6 @@
 ## Welcome to My Audio Lab
 
-The labs are personal works done in Audio Computing Lab instructed by [Paris Smaragdis](https://paris.cs.illinois.edu/).
+These labs/tools are extended from my works in Audio Computing Lab instructed by [Paris Smaragdis](https://paris.cs.illinois.edu/).
 
 An app demo (powered by Flask and WebRTC) extended from the works: https://randomlab.herokuapp.com/book/audiolab
 
